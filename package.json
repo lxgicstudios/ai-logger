@@ -1,7 +1,7 @@
 {
   "name": "ai-logger",
   "version": "1.0.0",
-  "description": "Set up structured logging configuration using AI",
+  "description": "AI-powered logging setup - structured logs with Winston/Pino config via GPT",
   "main": "dist/index.js",
   "bin": {
     "ai-logger": "dist/cli.js"
@@ -9,7 +9,23 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["logger", "logging", "pino", "winston", "structured", "ai", "cli"],
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "logging",
+    "logger",
+    "winston",
+    "pino",
+    "debugging",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "monitoring",
+    "observability"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
