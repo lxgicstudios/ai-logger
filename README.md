@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-logger.svg)](https://www.npmjs.com/package/ai-logger)
 [![npm downloads](https://img.shields.io/npm/dm/ai-logger.svg)](https://www.npmjs.com/package/ai-logger)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-logger)](https://github.com/lxgic-studios/ai-logger/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Set up structured logging in seconds. Generates production-ready config for pino, winston, or bunyan with request tracking, log rotation, and pretty dev output.
