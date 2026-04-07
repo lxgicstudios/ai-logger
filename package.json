@@ -1,5 +1,5 @@
 {
-  "name": "ai-logger",
+  "name": "@lxgicstudios/ai-logger",
   "version": "1.0.0",
   "description": "AI-powered logging setup - structured logs with Winston/Pino config via GPT",
   "main": "dist/index.js",
